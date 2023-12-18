@@ -1580,6 +1580,7 @@ Make sure 'BattleGrid_C' has been compiled for  Set PickedUnitAttackDistance
 [2023.12.18-21.53.29:698][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Inanimate/grids/BattleGrid.BattleGrid
 [2023.12.18-21.53.29:698][508]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Arena1.Arena1
 [2023.12.18-21.53.32:832][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+<<<<<<< HEAD
 [2023.12.18-21.57.06:929][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2023.12.18-21.57.06:931][455]LogStall: Shutdown...
 [2023.12.18-21.57.06:941][455]LogStall: Shutdown complete.
@@ -2185,3 +2186,5 @@ Make sure 'BattleGrid_C' has been compiled for  Set PickedUnitAttackDistance
 [2023.12.18-21.57.11:377][456]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.12.18-21.57.11:408][456]LogExit: Exiting.
 [2023.12.18-21.57.11:450][456]Log file closed, 12/19/23 00:57:11
+=======
+>>>>>>> mapredaction
